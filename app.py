@@ -35,7 +35,7 @@ if 'alerts' not in st.session_state:
 
 def main():
     # Title and header
-    st.title("🔥 Smart Forest Fire Monitoring & Prediction System")
+    st.title("Smart Forest Fire Monitoring & Prediction System")
     st.markdown("---")
     
     # Sidebar for controls
